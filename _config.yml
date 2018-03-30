@@ -11,11 +11,10 @@
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
 
-# config file for development, DELETE IT IF YOU WANT.
 
 text_color_theme: default #eg: default | dark | forest | ocean | chocolate | orange
 ## Base settings ##
-# url:  #the base hostname & protocol for your site e.g. https://www.someone.com
+ url: http://fluffy-leaf.cloudvent.net/  #the base hostname & protocol for your site e.g. https://www.someone.com
 
 baseurl: /
 title: Personal blog
