@@ -29,12 +29,12 @@ nav_lists:
 
  paths:
    base: /
-   home: bambuzie.github.io/saladblog/
+   home: https://github.com/bambuzie/saladblog
 #   all:  /all.html
 #   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
- repository:  https://github.com/bambuzie/saladblog #e.g. someone/someone.github.io
+ repository:  bambuzie.github.io/saladblog/ #https://github.com/bambuzie/saladblog #e.g. someone/someone.github.io
  repository_tree:  master #e.g. master
 
 ## Language & timezone ##
