@@ -18,9 +18,9 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 
 baseurl: /
-title: Someone's blog
+title: Personal blog
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+   Continue self improvement by improving on current skills and obtain a greater depth of understanding.
 
 nav_lists:
   - titles:
@@ -29,8 +29,8 @@ nav_lists:
       zh-Hans: 关于
       zh-Hant: 關於
     url: /about.html
-  - title: Baidu
-    url: https://www.baidu.com
+  - title: webpage
+    url: https://www.saladham.com
 
 paths:
   # base: /
