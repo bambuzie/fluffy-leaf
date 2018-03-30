@@ -34,8 +34,8 @@ nav_lists:
 #   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
- repository:  https://github.com/bambuzie/saladblog #e.g. someone/someone.github.io
- repository_tree:  master #e.g. master
+# repository:  https://github.com/bambuzie/saladblog #e.g. someone/someone.github.io
+# repository_tree:  master #e.g. master
 
 ## Language & timezone ##
 lang: en #the language of your site, eg: en(English), zh(简体中文), zh-Hans(简体中文), zh-Hant(繁體中文)
