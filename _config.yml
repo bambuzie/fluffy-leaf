@@ -17,7 +17,7 @@ text_color_theme: dark #eg: default | dark | forest | ocean | chocolate | orange
 baseurl: /
 title: Saladham
 description: > #this means to ignore newlines until "nav_lists:"
-  
+  ~
 
 nav_lists:
   - titles:
