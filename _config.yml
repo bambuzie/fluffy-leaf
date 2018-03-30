@@ -48,9 +48,9 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: Someone
-  email: someone@somemail.com  #your Email address e.g. someone@site.com
-  facebook: someone  #your Facebook username
-  twitter: someone  #your Twitter username
+  email: sara.n.aladham@gmail.com  #your Email address e.g. someone@site.com
+#  facebook: someone  #your Facebook username
+#  twitter: someone  #your Twitter username
   github: bambuzie  #your GitHub username
   googleplus:   #your Google+ username
   weibo:   #your Weibo username
