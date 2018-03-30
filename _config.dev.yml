@@ -29,8 +29,8 @@ nav_lists:
       zh-Hans: 关于
       zh-Hant: 關於
     url: /about.html
-  - title: Baidu
-    url: https://www.baidu.com
+  - title: webpage
+    url: https://www.saladham.com
 
 paths:
   # base: /
