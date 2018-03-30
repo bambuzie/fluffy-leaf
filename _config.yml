@@ -27,9 +27,9 @@ nav_lists:
       zh-Hant: 關於
     url: /about.html
 
- paths:
-   base: http://fluffy-leaf.cloudvent.net/
-   home: http://fluffy-leaf.cloudvent.net/
+# paths:
+#   base: /
+#   home: /
 #   all:  /all.html
 #   rss:  /feed.xml
 
