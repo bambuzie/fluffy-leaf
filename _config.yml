@@ -44,7 +44,7 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: Sara Aladham
-   email:  sara.n.aladham@gmail.com
+#   email:  sara.n.aladham@gmail.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
   # github:  bambuzie #your github username
