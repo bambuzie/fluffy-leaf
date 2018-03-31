@@ -108,7 +108,7 @@ permalink: date
 exclude:
   - CHANGELOG.md
   - CHECKLIST.md
-  - Gemfile
+ # - Gemfile
   - Gemfile.lock
   - LICENSE
   - README-*.md
