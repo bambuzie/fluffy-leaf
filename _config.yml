@@ -17,7 +17,7 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 # url: #the base hostname & protocol for your site e.g. https://www.someone.com
 
 baseurl: /
-title: Letters
+title: fluffy leaf
 description: > #this means to ignore newlines until "nav_lists:"
    Continue self improvement by improving on current skills and obtain a greater depth of understanding.
 
