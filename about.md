@@ -17,7 +17,7 @@ This blog's purpose is meant to continue self improvement by improving on curren
 ---
 
 ```javascript
-printf("Hello World! \n");
+printf("Hello, World! \n");
 ```
 
 ## Skills
