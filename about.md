@@ -20,7 +20,6 @@ printf("Hello World!\n");
 
 ## Skills
 
-- HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh)
+- C
 - React, React Native, Vue.js
-- gulp, webpack
-- Adobe Photoshop, Sketch
+- Adobe Photoshop, Maya, 3dsMax, Zbrush
