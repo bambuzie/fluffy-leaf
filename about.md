@@ -15,7 +15,7 @@ I'm Sara
 This blog's purpose is meant to continue self improvement by improving on current skills and obtain a greater depth of understanding of computer related topics. 
 
 {% highlight javascript %}
-(() => console.log('hello, world!'))();
+printf("Hello World!\n");
 {% endhighlight %}
 
 ## Skills
