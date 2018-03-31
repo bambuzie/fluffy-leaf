@@ -19,7 +19,7 @@ text_color_theme: ocean #eg: default | dark | forest | ocean | chocolate | orang
 baseurl: /
 title: fluffy leaf
 description: > #this means to ignore newlines until "nav_lists:"
-   Continue self improvement by improving on current skills and obtain a greater depth of understanding.
+   
 
 nav_lists:
   - titles:
