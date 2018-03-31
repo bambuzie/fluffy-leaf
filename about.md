@@ -23,5 +23,4 @@ printf("Hello, World! \n");
 ## Skills
 
 - C
-- React, React Native, Vue.js
 - Adobe Photoshop, Maya, 3dsMax, Zbrush
