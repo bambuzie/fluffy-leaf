@@ -10,7 +10,7 @@ key: page-about
 
 Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
-I'm Sara
+I'm Sara.
 
 **DISCLAIMER**<br>
 Most of the information came from lecture notes and other resources and not entirely mine word for word but with just some minor tweaking
