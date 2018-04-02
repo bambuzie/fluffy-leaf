@@ -18,7 +18,7 @@ to make the language more comprehensible for me. This blog is used as a study an
 skills and obtain a greater depth of understand of computer related topics. 
 ---
 
-```C
+```
 printf("Hello, World! \n");
 ```
 
