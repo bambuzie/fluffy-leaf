@@ -16,11 +16,6 @@ I'm Sara.
 Most of the information came from lecture notes and other resources and not entirely mine word for word but with just some minor tweaking
 to make the language more comprehensible for me. This blog is used as a study and memorization tool and in the process improve on current
 skills and obtain a greater depth of understand of computer related topics. 
----
-
-```
-printf("Hello, World! \n");
-```
 
 ## Skills
 
