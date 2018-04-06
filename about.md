@@ -14,8 +14,8 @@ I'm Sara.
 
 **DISCLAIMER**<br>
 Most of the information came from lecture notes and other resources and not entirely mine word for word but with just some minor tweaking
-to make the language more comprehensible for me. This blog is used as a study and memorization tool and in the process improve on current
-skills and obtain a greater depth of understand of computer related topics. 
+to make the language more comprehensible for me. This blog is used as a study and memorization tool and in the process of making this blog I hope to improve on current
+skills and obtain a greater depth of understanding of computer related topics. 
 
 ## Skills
 
