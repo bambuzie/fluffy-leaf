@@ -28,8 +28,8 @@ nav_lists:
       zh-Hans: 关于
       zh-Hant: 關於
     url: /about.html
-  - title: Saladham
-    url: https://www.saladham.com
+#  - title: Saladham
+#    url: https://www.saladham.com
 
 paths:
   # base: /
