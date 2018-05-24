@@ -19,5 +19,5 @@ skills and obtain a greater depth of understanding of computer related topics.
 
 ## Skills
 
-- C
+- C, Java
 - Adobe Photoshop, Maya, 3dsMax, Zbrush
