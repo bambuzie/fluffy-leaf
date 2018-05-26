@@ -14,7 +14,6 @@ mermaid: true
 ## 
 
 to be continued
-hello
 
 
 <!--more-->
